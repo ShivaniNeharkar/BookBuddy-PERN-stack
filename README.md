@@ -1,6 +1,20 @@
 https://github.com/ShivaniNeharkar/BookBuddy-PERN-stack/assets/43198273/dd9fad9c-77ee-4449-9d3f-cb5505523890
 
 
+
+
+I developed a comprehensive Library Management System using the PERN stack (PostgreSQL, Express, React, and Node.js) to manage both librarian and student roles effectively. Librarians can add, edit, and update book details, while students have the ability to check out, sort, and filter books.
+
+The frontend was built using React with hooks for efficient state management. JWT tokens were used to secure authentication and manage role-based access. The backend leverages PostgreSQL for database management, adhering to an ORM structure for clean and scalable database interaction. I utilized Axios to handle API requests between the frontend and backend.
+
+Additionally, I wrote extensive tests to ensure reliability and maintainability across the application.
+
+
+
+
+
+
+
 # Getting Started with Client and Server
 # Login Credentials for Students
   dave@gmail.com
